@@ -1,0 +1,37 @@
+body {
+    color: #fe9720;
+    background-color: #333;
+}
+
+.color {
+    color: #0000ff;
+}
+
+.cursive {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+mark {
+    background: #ffff00;
+    padding: 0 3px;
+}
+
+.del {
+    text-decoration: line-through;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.super {
+    vertical-align: super;
+}
+
+.sub {
+    vertical-align: sub;
+}
